@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evanevaniuk
 - 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning C/Java
+- 🌱 I’m currently learning Embeded Systems development on the side and web dev in class
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
